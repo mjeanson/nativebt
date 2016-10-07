@@ -24,7 +24,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-import babeltrace.nativebt as nbt
+import nativebt as nbt
 import babeltrace.common as common
 from uuid import UUID
 
